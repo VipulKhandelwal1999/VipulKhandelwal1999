@@ -1,12 +1,11 @@
 ### <img src="github_hello.gif" width="20px">Hey there! I'm Vipul.
-
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
+  
 - 🤔 &nbsp; Exploring new technologies and developing web applications.
-- 🎓 &nbsp; Studying Computer Science and Engineering at LNMIIT, Jaipur.
-- 💼 &nbsp; Looking for an Internship.
+- 🎓 &nbsp; I’m currently Pursuing my Bachelor of Technology in Computer Science And Engineering at LNMIIT, Jaipur.
+- 💼 &nbsp; I’m looking for a Software Development internship.
 - 🌱 &nbsp; Learning more about ReactJS and NodeJS.
-- ✍️ &nbsp; Pursuing my Bachelor of Technology in Computer Science And Engineering.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
