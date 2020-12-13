@@ -46,7 +46,7 @@
 <a href="https://www.instagram.com/vipulk1605/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-vipulk1605-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:khandelwal.vipul1605@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-khandelwal.vipul1605@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
+<br><br>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/VipulKhandelwal1999/count.svg" />
