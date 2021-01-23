@@ -38,7 +38,6 @@
   </p>
 
 <br/>
-<br/>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VipulKhandelwal1999&theme=dark" alt="VipulKhandelwal1999" /></p><br />
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
