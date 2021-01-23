@@ -36,7 +36,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VipulKhandelwal1999&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="VipulKhandelwal1999" />
 </a>
   </p>
-
+<br/>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VipulKhandelwal1999&theme=dark" alt="VipulKhandelwal1999" /></p><br />
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
