@@ -32,8 +32,8 @@
 <br/>
 
 <a href="https://github.com/VipulKhandelwal1999">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VipulKhandelwal1999&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VipulKhandelwal1999&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VipulKhandelwal1999&show_icons=true&theme=dracula&title_color=fcfcfc&text_color=f3f2f2&hide_border=true&locale=en" alt="VipulKhandelwal1999" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VipulKhandelwal1999&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="VipulKhandelwal1999" />
 </a>
 
 <br/>
