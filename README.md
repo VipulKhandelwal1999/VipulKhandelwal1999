@@ -37,7 +37,6 @@
 </a>
   </p>
 
-<br/>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VipulKhandelwal1999&theme=dark" alt="VipulKhandelwal1999" /></p><br />
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
@@ -48,7 +47,7 @@
 <a href="mailto:khandelwal.vipul1605@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-khandelwal.vipul1605@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-<br><br>
+<br>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/VipulKhandelwal1999/count.svg" />
