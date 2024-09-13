@@ -3,15 +3,16 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
   
 - 🤔 &nbsp; Exploring new technologies and developing web applications.
-- 🎓 &nbsp; I’m currently Pursuing my Bachelor of Technology in Computer Science And Engineering at LNMIIT, Jaipur.
-- 💼 &nbsp; I’m looking for a Software Development internship.
-- 🌱 &nbsp; Learning more about ReactJS and NodeJS.
+- 💼 &nbsp; I'm currently working as a Senior Software Engineer at Bank of New York (BNY).
+- 🎓 &nbsp; I've Pursued my Bachelor of Technology in Computer Science And Engineering at LNMIIT, Jaipur.
+- 🌱 &nbsp; Learning more about Kafka and Docker.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -19,6 +20,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -28,7 +30,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Codeblocks](https://img.shields.io/badge/-CodeBlocks-333333?style=flat&logo=codeblocks)
-
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 <br/>
 <p  align="center">
 <a href="https://github.com/VipulKhandelwal1999">
